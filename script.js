@@ -24,7 +24,7 @@ btns.forEach((button) =>
                 document.getElementById("youWin").textContent = "Game Over!! Someone won";
                 btns.forEach((button) =>
                 {
-                    button.remove();
+                    button.remove();c
                 })
             }
 
